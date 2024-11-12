@@ -75,6 +75,6 @@ flutter:
   fonts:
     - family: Cairo
       fonts:
-        - asset: C:\Users\USER\Desktop\flutter_project\my_cart\my_cart\fonts\Cairo\static\Cairo-Regular.ttf
+        - asset: fonts\Cairo\static\Cairo-Regular.ttf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
